@@ -1,6 +1,6 @@
 # AWS S3 Static Website Hosting
 
-🌐 **Live Website:** [Visit My Portfolio](YOUR-S3-WEBSITE-URL)
+🌐 **Live Website:** [Visit My Portfolio](http://firstweb9014527015.s3-website.ap-south-2.amazonaws.com)
 
 ## Technologies Used
 - HTML
